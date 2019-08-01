@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 20px;
+}
+.MuiFormControl-root{
+  display: block;
+  margin-top: 20px !important;
+  margin-bottom: 40px !important;
+}
+
+hr{
+  margin-top: 40px;
+  border-color: rgba(240, 240, 240, 0.16);
+  border-bottom: none;
+}
+
+.result{
+  font-weight: 100;
+  font-size: 32px;
+  text-align: center;
+  padding-top: 12px;
+  color: rgb(87, 88, 87);
+}
