@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/lakesare/hours-to-wage",
+  "homepage": "http://lakesare.github.io/hours-to-wage",
   "dependencies": {
     "@material-ui/core": "^4.3.0",
     "gh-pages": "^2.1.0",
